@@ -1,3 +1,3 @@
-# LoL Guides App
-Development Branch: dev_branch
-Features: JSON storage
+# LoL Guides Application
+Версия: 1.1 Beta
+Features: JSON storage implementation
